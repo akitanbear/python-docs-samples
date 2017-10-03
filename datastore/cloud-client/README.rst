@@ -7,7 +7,6 @@ This directory contains samples for Google Cloud Datastore. `Google Cloud Datast
 
 
 
-
 .. _Google Cloud Datastore: https://cloud.google.com/datastore/docs 
 
 Setup
