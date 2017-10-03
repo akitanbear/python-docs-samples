@@ -1,7 +1,6 @@
 # Google App Engine Samples
 
-This section contains samples for [Google App Engine](https://cloud.google.com/appengine). Most of these samples have associated documentation that is linked
-within the docstring of the sample itself.
+This section contains samples for [Google App Engine](https://cloud.google.com/appengine). Most of these samples have associated documentation that is linked within the docstring of the sample itself.
 
 ## Running the samples locally
 
