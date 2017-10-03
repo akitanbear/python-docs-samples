@@ -7,7 +7,6 @@ This directory contains samples for Google Cloud Storage. `Google Cloud Storage`
 
 
 
-
 .. _Google Cloud Storage: https://cloud.google.com/storage/docs 
 
 Setup
