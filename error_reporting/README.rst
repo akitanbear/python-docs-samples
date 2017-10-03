@@ -3,9 +3,7 @@
 Stackdriver Error Reporting Python Samples
 ===============================================================================
 
-This directory contains samples for Stackdriver Error Reporting. `Stackdriver Error Reporting`_ aggregates and displays errors produced in
- your running cloud services.
-
+This directory contains samples for Stackdriver Error Reporting. `Stackdriver Error Reporting`_ aggregates and displays errors produced in your running cloud services.
 
 
 
