@@ -1,5 +1,6 @@
 ## Google Cloud Platform Python Samples
 
+
 This repository holds the samples used in the python documentation on [cloud.google.com](https://cloud.google.com).
 
 [![Build Status](https://travis-ci.org/GoogleCloudPlatform/python-docs-samples.svg)](https://travis-ci.org/GoogleCloudPlatform/python-docs-samples)
@@ -8,9 +9,11 @@ This repository holds the samples used in the python documentation on [cloud.goo
 For more detailed introduction to a product, check the README.md in the
 corresponding folder.
 
+
 ## Contributing changes
 
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
+
 
 ## Licensing
 
