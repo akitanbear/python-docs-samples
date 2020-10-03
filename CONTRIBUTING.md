@@ -1,5 +1,6 @@
 # How to become a contributor and submit your own code
 
+
 ## Contributor License Agreements
 
 We'd love to accept your sample apps and patches! Before we can take them, we
@@ -19,6 +20,7 @@ Follow either of the two links above to access the appropriate CLA and
 instructions for how to sign and return it. Once we receive it, we'll
 be able to accept your pull requests.
 
+
 ## Contributing A Patch
 
 1. Submit an issue describing your proposed change to the repo in question.
@@ -30,6 +32,7 @@ be able to accept your pull requests.
    you are contributing.
 1. Ensure that your code has an appropriate set of unit tests which all pass.
 1. Submit a pull request.
+
 
 ## Authoring, testing, and contributing samples
 
