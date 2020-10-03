@@ -8,9 +8,11 @@ This repository holds the samples used in the python documentation on [cloud.goo
 For more detailed introduction to a product, check the README.md in the
 corresponding folder.
 
+
 ## Contributing changes
 
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
+
 
 ## Licensing
 
